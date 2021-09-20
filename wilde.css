@@ -1,0 +1,31 @@
+.GUIDO
+{
+    color: black;
+    font-size: 100%;
+    background-color: rgb(42, 176, 185);
+}
+.ASCANIO
+{
+    color: black;
+    font-size: 100%;
+    background-color: azure;
+}
+
+.stagedirection
+{
+    font-size: 100%;
+    background-color: lightgreen;
+    color : black;
+}
+.stagedirection:hover 
+{
+    font-size: 100%;
+    background-color: black;
+    color : rgb(0, 255, 64) ;
+}
+.name
+{
+    font-size: 100%;
+    font-style: Arial;
+    color :black;
+}
