@@ -29,3 +29,28 @@
     font-style: Arial;
     color :black;
 }
+
+table,
+th,
+td {
+    border: 4px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    color: rgb(0, 0, 0);
+}
+
+tr:nth-child(even) {
+    background-color: #1ee6cb;
+}
+
+tr:nth-child(odd) {
+    background-color: #e61e71;
+}
